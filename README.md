@@ -3,6 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loshitha2002&label=Profile%20views&color=0e75b6&style=flat" alt="loshitha2002" /> </p>
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 - 📫 How to reach me **loshithaudana66@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
