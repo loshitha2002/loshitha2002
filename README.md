@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loshitha Udana</h1>
 <h3 align="center">A Passionate Electrical and Electronic Engineering Undergraduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loshitha2002&label=Profile%20views&color=0e75b6&style=flat" alt="loshitha2002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=loshitha2002&label=Profile%20views&color=0e75b6&style=flat" alt="loshitha2002" /> </p>
 
 - 📫 How to reach me **loshithaudana66@gmail.com**
 
