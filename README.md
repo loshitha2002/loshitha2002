@@ -9,7 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=loshitha2002&label=Profile%20Views&color=FF6B6B&style=for-the-badge&labelColor=4ECDC4)](https://github.com/loshitha2002)
 [![GitHub followers](https://img.shields.io/github/followers/loshitha2002?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=4ECDC4)](https://github.com/loshitha2002)
 [![GitHub stars](https://img.shields.io/github/stars/loshitha2002?label=Total%20Stars&style=for-the-badge&color=FF6B6B&labelColor=4ECDC4)](https://github.com/loshitha2002)
-[![Years Badge](https://badges.pufler.dev/years/loshitha2002?style=for-the-badge&color=FF6B6B&labelColor=4ECDC4)](https://github.com/loshitha2002)
+[![GitHub User's stars](https://img.shields.io/github/stars/loshitha2002?affiliations=OWNER&style=for-the-badge&color=FF6B6B&labelColor=4ECDC4&label=Repositories)](https://github.com/loshitha2002)
 
 </div>
 
