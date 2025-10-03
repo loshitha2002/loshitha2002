@@ -26,7 +26,10 @@ const loshitha = {
     title: "Electrical & Electronic Engineering Student",
     location: "Sri Lanka 🇱🇰",
     education: "Undergraduate EE Engineering",
-    interests: ["IoT", "Embedded Systems", "Automation", "Signal Processing"],
+    interests: [
+        "IoT", "Embedded Systems", 
+        "Automation", "Signal Processing"
+    ],
     currentFocus: "Building innovative engineering solutions",
     lifePhilosophy: "Transform ideas into reality through technology",
     
