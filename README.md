@@ -2,11 +2,13 @@
   
 # 🌟 Welcome to My Digital Universe! 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Loshitha+Udana;Electrical+%26+Electronic+Engineering+Student;Passionate+About+Innovation+%26+Technology;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Loshitha+Udana;Electrical+%26+Electronic+Engineering+Student;Passionate+About+Innovation+%26+Technology;Building+the+Future+with+Code+%26+Circuits;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> **Welcome to my GitHub profile!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=loshitha2002&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/loshitha2002)
+[![Profile Views](https://komarev.com/ghpvc/?username=loshitha2002&label=Profile%20Views&color=FF6B6B&style=for-the-badge&labelColor=4ECDC4)](https://github.com/loshitha2002)
+[![GitHub followers](https://img.shields.io/github/followers/loshitha2002?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=4ECDC4)](https://github.com/loshitha2002)
+[![GitHub stars](https://img.shields.io/github/stars/loshitha2002?label=Total%20Stars&style=for-the-badge&color=FF6B6B&labelColor=4ECDC4)](https://github.com/loshitha2002)
 
 </div>
 
@@ -14,19 +16,39 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
-🎓 **Electrical & Electronic Engineering Undergraduate** passionate about bridging the gap between hardware and software
+```typescript
+const loshitha = {
+    name: "Loshitha Udana",
+    title: "Electrical & Electronic Engineering Student",
+    location: "Sri Lanka 🇱🇰",
+    education: "Undergraduate EE Engineering",
+    interests: ["IoT", "Embedded Systems", "Automation", "Signal Processing"],
+    currentFocus: "Building innovative engineering solutions",
+    lifePhilosophy: "Transform ideas into reality through technology",
+    
+    workingOn: {
+        projects: ["Smart Systems", "IoT Solutions", "Automation"],
+        learning: ["Advanced Python", "Machine Learning", "PCB Design"],
+        collaboration: "Open to exciting engineering projects"
+    },
+    
+    contact: {
+        email: "loshithaudana66@gmail.com",
+        portfolio: "https://loshitha2002.github.io/Loshitha-Udana-Portfolio/",
+        linkedin: "linkedin.com/in/loshitha-udana"
+    }
+};
+```
 
-🔬 **Research Interests:** IoT, Embedded Systems, Signal Processing, and Automation
-
-💡 **Innovation Enthusiast:** Always exploring new technologies and creative solutions
-
-🌱 **Currently Learning:** Advanced Python, Machine Learning, and PCB Design
-
-⚡ **Fun Fact:** I love turning complex engineering problems into elegant solutions!
-
-📧 **Reach me at:** [loshithaudana66@gmail.com](mailto:loshithaudana66@gmail.com)
+🎓 **Engineering Student** passionate about bridging hardware and software  
+🔬 **Research Focus:** IoT, Embedded Systems, Signal Processing & Automation  
+💡 **Innovation Mindset:** Turning complex problems into elegant solutions  
+🌱 **Continuous Learner:** Always exploring cutting-edge technologies  
+⚡ **Fun Fact:** I believe the best engineering solutions are both functional and beautiful!
 
 ---
 
@@ -34,6 +56,10 @@
 
 <div align="center">
 
+### 🌟 **Check Out My Portfolio First!** 🌟
+[![Portfolio Website](https://img.shields.io/badge/🎯_Portfolio_Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=4ECDC4&gradient=45deg)](https://loshitha2002.github.io/Loshitha-Udana-Portfolio/)
+
+### 📱 **Let's Connect & Collaborate!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loshitha-udana)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/loshitha-udana)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/loshitha2002)
@@ -99,44 +125,39 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🌐 Portfolio Website
 
 <div align="center">
   
-![Snake animation](https://github.com/loshitha2002/loshitha2002/blob/output/github-contribution-grid-snake.svg)
+[![Portfolio](https://img.shields.io/badge/🌟_Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white&labelColor=4ECDC4)](https://loshitha2002.github.io/Loshitha-Udana-Portfolio/)
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
+
+**🚀 Explore my complete journey, projects, and achievements!**
 
 </div>
 
 ---
 
-## 💡 Current Projects & Interests
-
-<div align="center">
-
-🔋 **Smart Energy Management Systems**
-🤖 **IoT-based Home Automation**
-📡 **Wireless Sensor Networks**
-🎛️ **Control Systems & Automation**
-📊 **Data Analysis & Visualization**
-
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
   
-### 🌟 "Engineering is the art of making what you've never seen work with what you've never got!" 🌟
+### 💫 "Engineering is the art of making the impossible, possible!" 💫
 
-**Thanks for visiting! Let's connect and build amazing things together! 🚀**
+<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="100">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+**🚀 Ready to collaborate on exciting projects? Let's connect and build the future together!**
+
+<div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
+<strong>Thanks for visiting my profile!</strong> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+</div>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌟_Explore_My_Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white&labelColor=4ECDC4)](https://loshitha2002.github.io/Loshitha-Udana-Portfolio/)
+
+<sub>💡 <em>"Innovation distinguishes between a leader and a follower."</em> - Steve Jobs</sub>
 
 </div>
 
