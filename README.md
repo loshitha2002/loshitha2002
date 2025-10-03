@@ -9,6 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=loshitha2002&label=Profile%20Views&color=FF6B6B&style=for-the-badge&labelColor=4ECDC4)](https://github.com/loshitha2002)
 [![GitHub followers](https://img.shields.io/github/followers/loshitha2002?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=4ECDC4)](https://github.com/loshitha2002)
 [![GitHub stars](https://img.shields.io/github/stars/loshitha2002?label=Total%20Stars&style=for-the-badge&color=FF6B6B&labelColor=4ECDC4)](https://github.com/loshitha2002)
+[![Years Badge](https://badges.pufler.dev/years/loshitha2002?style=for-the-badge&color=FF6B6B&labelColor=4ECDC4)](https://github.com/loshitha2002)
 
 </div>
 
@@ -88,6 +89,8 @@ const loshitha = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Hardware & Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -107,6 +110,7 @@ const loshitha = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
