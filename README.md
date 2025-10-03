@@ -34,9 +34,9 @@ const loshitha = {
     lifePhilosophy: "Transform ideas into reality through technology",
     
     workingOn: {
-        projects: ["Smart Systems", "IoT Solutions", "Automation"],
-        learning: ["Advanced Python", "Machine Learning", "PCB Design"],
-        collaboration: "Open to exciting engineering projects"
+        projects: ["Smart Energy Systems", "IoT Automation", "AI-Enhanced Controls"],
+        learning: ["AI/ML Integration", "Cloud IoT Platforms", "Advanced PCB Design"],
+        collaboration: "Open to innovative engineering projects"
     },
     
     contact: {
@@ -84,6 +84,11 @@ const loshitha = {
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
 ### Hardware & Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -125,6 +130,12 @@ const loshitha = {
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loshitha2002&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ff6b6b&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loshitha2002&theme=radical)
 
 </div>
 
